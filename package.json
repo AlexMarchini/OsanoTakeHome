@@ -1,0 +1,16 @@
+{
+  "name": "osanotest",
+  "version": "1.0.0",
+  "description": "take-home test for Osano interview",
+  "main": "index.js",
+  "scripts": {
+    "run-cypress": "npx cypress run --headless",
+    "cypress": "npx cypress open"
+  },
+  "author": "Alex Marchini",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/cypress": "^9.0.0",
+    "cypress": "^12.5.1"
+  }
+}
