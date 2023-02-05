@@ -1,7 +1,7 @@
 # Osano take-home project
 
 I chose to use Amazon.com for this assignment.
-Here's are the high level [test cases](https://airtable.com/shriND27rkkhhF9Bi)
+Here are the high level [test cases](https://airtable.com/shriND27rkkhhF9Bi)
 
 ## Implementation notes
 
